@@ -1,2 +1,2 @@
 run:
-	python vigenere.py ${ARGS}
+	python3 vigenere.py ${ARGS}
